@@ -4,9 +4,9 @@ This repository contains open source architecutre research summaries and teachin
 
 ## Contact Information
 
-Email: CoffeeBeforeArch@gmail.com
-Twitter: @AcceleratorNick
-GitHub: @CoffeeBeforeArch
+- Email: CoffeeBeforeArch@gmail.com
+- Twitter: @AcceleratorNick
+- GitHub: @CoffeeBeforeArch
 
 ## Research Summaries
 
